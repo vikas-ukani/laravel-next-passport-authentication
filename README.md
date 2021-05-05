@@ -53,3 +53,42 @@ Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://next
 
 ## Documentation
 Move to the `frontend/` directory to checkout NextJS Application.
+
+## Installation
+
+1. Clone this repo
+```
+git clone https://github.com/vikas-ukani/laravel-next-passport-authentication.git
+```
+
+2. Install Laravel packages.
+```
+composer install
+OR
+composer i
+```
+3. Create an ENV file
+```
+cp .env.example .env
+```
+
+4. Create an Project Key.
+```
+php artisan generate:key
+```
+
+## FrontEnd NextJS Project Setup
+1. Move to frontend project
+```
+cd frontend/
+```
+
+2. Install Node Packages
+```
+npm install
+```
+
+3. Run the server
+```
+npm run dev
+```
