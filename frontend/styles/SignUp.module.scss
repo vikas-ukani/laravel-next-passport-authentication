@@ -1,0 +1,76 @@
+.bodyMain {
+    color: #fff;
+    background: #344a71;
+    height: 100vh;
+    padding: 0px 0px;
+}
+
+.form_control {
+    min-height: 40px;
+    box-shadow: none;
+    border-color: #e1e4e5;
+}
+.form_control:focus {
+    border-color: #49c1a2;
+}
+.form_control::placeholder {
+    font-size: small;
+}
+.form_control,
+.btn {
+    border-radius: 3px;
+}
+.signupForm {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.signupFormForm {
+    color: #9ba5a8 !important;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    background: #fff;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+}
+.form_title {
+    color: #333;
+    font-weight: bold;
+    margin-top: 0;
+}
+.signup_form__hr {
+    margin: 0 -20px 10px;
+}
+.signup-form .form-group {
+    margin-bottom: 20px;
+}
+.signup_form__label {
+    font-weight: normal;
+    font-size: 13px;
+}
+.signup_form__btn {
+    font-size: 16px;
+    font-weight: bold;
+    background: #49c1a2;
+    border: none;
+    min-width: 140px;
+}
+.signup_form__btn:hover,
+.signup_form__btn:focus {
+    background: #3cb094;
+    outline: none !important;
+}
+.signup-form a {
+    color: #fff;
+    text-decoration: underline;
+}
+.signup-form a:hover {
+    text-decoration: none;
+}
+.signup-form form a {
+    color: #49c1a2;
+    text-decoration: none;
+}
+.signup-form form a:hover {
+    text-decoration: underline;
+}

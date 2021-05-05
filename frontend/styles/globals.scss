@@ -1,0 +1,32 @@
+@import "~bulma/bulma.sass";
+@import "~bootstrap/scss/bootstrap";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
+}
+:root {
+  --shadowDark: #d9dde6;
+  --background: #e4e9f2;
+  --shadowLight: #eff5fe;
+}
+section {
+  background: var(--background);
+  font-family: "Nunito Sans", sans-serif;
+}
+input {
+  background: var(--shadowDark) !important;
+}
+
+a {
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
