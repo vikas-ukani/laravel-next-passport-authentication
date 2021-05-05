@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-### A Customized Laravel NextJS Authentication Using Passport.
+## A Customized Laravel NextJS Authentication Using Passport.
 <br />
 
 <p>
@@ -54,7 +54,7 @@ Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://next
 ## Documentation
 Move to the `frontend/` directory to checkout NextJS Application.
 
-## Installation
+# Installation
 
 1. Clone this repo
 ```
@@ -92,3 +92,9 @@ npm install
 ```
 npm run dev
 ```
+
+
+
+--- 
+
+> Start Contributing By Updating Some Feature and Push your Code Live. ♡
